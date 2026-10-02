@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Usuario.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/config/conexion.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/UsuarioDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/config/SesionUsuario.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/LoginNegocio.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/LoginFrame.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/MenuAdmin.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/MenuEmpleado.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/ClientePanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/VehiculoPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/OrdenPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/RepuestoPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/BoletaPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Cliente.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/ClienteDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Vehiculo.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/VehiculoDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Repuesto.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/RepuestoDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/OrdenTrabajo.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/DetalleOrden.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/OrdenDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/DetalleOrdenDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/OrdenFormDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/empleado/BoletaFormDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Boleta.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/DetalleBoleta.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/BoletaDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/DetalleBoletaDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/ConfiguracionDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/RepuestoAdminPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/reportes/ReportesPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/UsuarioAdminPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/ConfigPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/reportes/pnlEmpleados.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/reportes/pnlClientes.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/reportes/pnlRepuestos.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/admin/reportes/pnlBoletas.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/ReporteDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/MenuMecanico.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/mecanico/MisOrdenesPanel.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/mecanico/OrdenMecanicoDialog.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/negocio/BoletaPDF.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/entidad/Configuracion.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/AutoTech/src/presentacion/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
